@@ -4,5 +4,10 @@ let a = 2+2
 console.log(a)
 
 /*
- * teste
+ * teste"
  */
+
+function primeiraFuncao() {
+
+	return false
+}
