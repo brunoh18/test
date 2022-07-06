@@ -11,3 +11,8 @@ function primeiraFuncao() {
 
 	return false
 }
+
+function segundaFuncao() {
+
+	return true
+}
